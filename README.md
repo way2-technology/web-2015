@@ -7,7 +7,9 @@ web-2015
 
 ####Instalação
 ```bash
+> choco install nodejs.install
 > git clone https://github.com/way2-technology/web-2015.git
+> npm i -g gulp
 > cd web-2015
 > npm install
 ```
